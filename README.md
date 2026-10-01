@@ -216,4 +216,4 @@ EPUBReader is available as a full free version with all features and updates inc
 Unlock the world of eBooks today with EPUBReader! Download now for a seamless reading experience.
 
 ---
-**Last updated:** 2026-09-30 20:33:19 UTC
+**Last updated:** 2026-10-01 00:21:44 UTC
